@@ -10,11 +10,11 @@ The independent features are called the independent variables, inputs, or predic
 Regression problems usually have one continuous and unbounded dependent variable. The inputs, however, can be continuous, discrete, or even the categorical datas.
 ```
 ## 1.Simple Linear Regression
-[Here](./simgle_linear_recursive.py)
+### [Here](./simgle_linear_recursive.py)
 ## 2.Multiple Linear Regression
-[Here](./multiple_linear_recursive.py)
+### [Here](./multiple_linear_recursive.py)
 ## 3.Polynomial Linear Regression
-[Here](./polynomial_linear_recursive.py)
+### [Here](./polynomial_linear_recursive.py)
 
 ## References
 1. https://en.wikipedia.org/wiki/Polynomial_regression
