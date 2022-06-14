@@ -1,5 +1,5 @@
 #  YOLO Notes 
-## YOLO是一個優秀的物件偵測模型。
+## 以下是閱讀論文的筆記，參考來自網路上閱讀心得，底下有連結。
 
 ## Paper
 ### YOLOv1: https://arxiv.org/pdf/1506.02640.pdf

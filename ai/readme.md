@@ -1,3 +1,4 @@
+# 本程式參考 darkflow 專案
 # AI (Aritificial Intelligence)
 ## 人工智慧
 ```
@@ -66,5 +67,7 @@ python flow --model cfg/yolo.cfg --load bin/yolov2.weights --imgdir sample_img/
 
 # References
 [1].https://pjreddie.com/darknet/yolo/
+
 [2].https://github.com/thtrieu/darkflow
+
 [3].https://medium.com/雞雞與兔兔的工程世界/機器學習-ml-note-yolo-利用影像辨識做物件偵測-object-detection-的技術-3ad34a4cac70
